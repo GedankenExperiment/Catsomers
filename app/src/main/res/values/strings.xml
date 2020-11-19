@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Catstomers</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="show_password">Show</string>
+    <string name="hide_password">Hide</string>
+    <string name="login">Login</string>
+    <string name="logged_in">You are logged in</string>
+    <string name="invalid_credential">Invalid credential</string>
+    <string name="wrong_credential">Wrong credential</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="mocked_email">user</string>
+    <string name="mocked_password">user</string>
+
+
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="third_fragment_label">Third Fragment</string>
+    <string name="breed">Breed</string>
+    <string name="country_code">Country code</string>
+    <string name="description">Description</string>
+    <string name="temperament">Temperament</string>
+    <string name="origin">Country</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
